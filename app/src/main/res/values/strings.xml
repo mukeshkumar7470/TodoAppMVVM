@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="fab_btn_content_desc">Add Notes Fab Button</string>
+    <string name="splash_screen_logo">SplashScreen</string>
+    <string name="noToDoTask">No ToDo list</string>
+    <string name="dev_name">Mukesh </string>
+</resources>
